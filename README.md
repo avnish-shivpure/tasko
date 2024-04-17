@@ -1,3 +1,3 @@
-# taskify
+# tasko
 
-taskify - A SPA for making your life more productive with its Todo-list, Password generator and currnecy converter
+tasko - A PWA for making your life more productive with its Todo-list, Password generator and currnecy converter
